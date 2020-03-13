@@ -9,8 +9,8 @@
 % ** the implicit midpoint (IMP) and multi-symplectic box (MSB) schemes of
 % Ascher and McLachlan: "On symplectic and multisymplectic schemes for the
 % KdV equation" (2005)
-% ** a schme obtained by a spatial discretization based on the standard
-% formualtion of the KdV equation, i.e. not on its multi-symplectic form,
+% ** a scheme obtained by a spatial discretization based on the standard
+% formulation of the KdV equation, i.e. not on its multi-symplectic form,
 % and the average vector field method in time (AVFM)
 % 
 % Code written by Sølve Eidnes and Lu Li
